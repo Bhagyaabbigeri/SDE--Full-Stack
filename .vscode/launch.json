@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+<<<<<<< HEAD
         {
             "type": "java",
             "name": "FileOperations",
@@ -53,6 +54,10 @@
             "mainClass": "StackApplication",
             "projectName": "ALGO365_818cfe66"
         },
+=======
+        
+
+>>>>>>> be297a9a91e8a15417ad47a73bb1f50856be8aa4
         {
             "type": "java",
             "name": "Current File",
